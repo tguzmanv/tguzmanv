@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomás Guzmán | Academic</title>
+    <link>/author/tomas-guzman/</link>
+      <atom:link href="/author/tomas-guzman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tomás Guzmán</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/tomas-guzman/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Tomás Guzmán</title>
+      <link>/author/tomas-guzman/</link>
+    </image>
+    
+  </channel>
+</rss>
